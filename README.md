@@ -36,6 +36,10 @@ Asked as a multi-select box, stored as a JSON object, if the key exists, the opt
 
 Asked as a multi-part question (number input for “temperature”, drop down selector [C, F] for “measure”, stored as a JSON object, with default value `{ temperature: 0, measure: “C” }`
 
+## Future data
+
+We will be continuously updating this dataset as it comes in from the tracktogether.org survey
+
 ## Contributing
 
 Please contact rasheed@tracktogether.org for collaboration opportunities.
